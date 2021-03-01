@@ -4,6 +4,6 @@
   * [coming](#)
   * [coming](#)
 - ## [Scrapy](#)
-  * [Quotes To Scrape website crawler](/scrapy/README.md)
+  * [Quotes To Scrape website crawler](/scrapy/quotescrape/README.md)
   * [Amazon website crawler](#)
   * [IMBD website crawler](#)
